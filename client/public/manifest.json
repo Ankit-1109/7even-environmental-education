@@ -1,0 +1,107 @@
+{
+  "name": "7even - Environmental Education Platform",
+  "short_name": "7even",
+  "description": "Gamified environmental education platform where you learn, act, and get rewarded for making a positive impact on our planet.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F766E",
+  "theme_color": "#0F766E",
+  "orientation": "portrait-primary",
+  "categories": ["education", "productivity", "lifestyle"],
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iMTIiIGZpbGw9IiMwRjc2NkUiLz4KPHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4PSIxMiIgeT0iMTIiPgo8cGF0aCBkPSJtMTIgMy0xLjkxIDcuNzJMMTcgOGwtNS4wOSA3LjI4TDEzIDI0bC0xLTMtMS45MS03LjcyTDQgMTVsNS4wOS03LjI4TDggMnoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo8L3N2Zz4K",
+      "sizes": "48x48",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzIiIGhlaWdodD0iNzIiIHZpZXdCb3g9IjAgMCA3MiA3MiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjcyIiBoZWlnaHQ9IjcyIiByeD0iMTgiIGZpbGw9IiMwRjc2NkUiLz4KPHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4PSIxOCIgeT0iMTgiPgo8cGF0aCBkPSJtMTggNC41LTIuODY1IDExLjU4TDI1LjUgMTJsLTcuNjM1IDEwLjkySDE5LjUgMzZsLTEuNS00LjUtMi44NjUtMTEuNThMNiAyMi41bDcuNjM1LTEwLjkyTDEyIDNaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4KPC9zdmc+Cg==",
+      "sizes": "72x72",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIHZpZXdCb3g9IjAgMCA5NiA5NiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9Ijk2IiBoZWlnaHQ9Ijk2IiByeD0iMjQiIGZpbGw9IiMwRjc2NkUiLz4KPHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4PSIyNCIgeT0iMjQiPgo8cGF0aCBkPSJtMjQgNi0zLjgyIDE1LjQ0TDM0IDE2bC0xMC4xOCAxNC41NkwyNiA0OGwtMi02LTMuODItMTUuNDRMOCAzMGwxMC4xOC0xNC41NkwxNiA2WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cjwvc3ZnPgo=",
+      "sizes": "96x96",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQ0IiBoZWlnaHQ9IjE0NCIgdmlld0JveD0iMCAwIDE0NCAxNDQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxNDQiIGhlaWdodD0iMTQ0IiByeD0iMzYiIGZpbGw9IiMwRjc2NkUiLz4KPHN2ZyB3aWR0aD0iNzIiIGhlaWdodD0iNzIiIHZpZXdCb3g9IjAgMCA3MiA3MiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4PSIzNiIgeT0iMzYiPgo8cGF0aCBkPSJtMzYgOS01LjczIDIzLjE2TDUxIDI0bC0xNS4yNyAyMS44NEwzOSA3MmwtMy05LTUuNzMtMjMuMTZMMTIgNDVsMTUuMjctMjEuODRMMjQgOVoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo8L3N2Zz4K",
+      "sizes": "144x144",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiByeD0iNDgiIGZpbGw9IiMwRjc2NkUiLz4KPHN2ZyB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIHZpZXdCb3g9IjAgMCA5NiA5NiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4PSI0OCIgeT0iNDgiPgo8cGF0aCBkPSJtNDggMTItNy42NCAzMC44OEw2OCAzMmwtMjAuMzYgMjkuMTJMNTIgOTZsLTQtMTItNy42NC0zMC44OEwxNiA2MGwyMC4zNi0yOS4xMkwzMiAxMloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo8L3N2Zz4K",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiByeD0iMTI4IiBmaWxsPSIjMEY3NjZFIi8+Cjxzdmcgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjEyOCIgeT0iMTI4Ij4KPHBhdGggZD0ibTEyOCAzMi0yMC4zNiA4Mi4zNUwxODEuMzMgODVsLTU0LjMgNzcuNjVMMTM4LjY3IDI1NmwtMTAuNjctMzItMjAuMzYtODIuMzVMNDIuNjcgMTYwbDU0LjMtNzcuNjVMODUuMzMgMzJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4KPC9zdmc+Cg==",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIwIiBoZWlnaHQ9IjU2OCIgdmlld0JveD0iMCAwIDMyMCA1NjgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIzMjAiIGhlaWdodD0iNTY4IiBmaWxsPSIjRkNGQ0ZBIi8+CjxyZWN0IHg9IjE2IiB5PSI2NCIgd2lkdGg9IjI4OCIgaGVpZ2h0PSI0MCIgcng9IjgiIGZpbGw9IiMwRjc2NkUiLz4KPHRleHQgeD0iMTYwIiB5PSI4OCIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlciIgZm9udC1zaXplPSIxNiIgZm9udC13ZWlnaHQ9IjYwMCI+N2V2ZW4gRGFzaGJvYXJkPC90ZXh0Pgo8L3N2Zz4K",
+      "sizes": "320x568",
+      "type": "image/svg+xml",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAyNCIgaGVpZ2h0PSI3NjgiIHZpZXdCb3g9IjAgMCAxMDI0IDc2OCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjEwMjQiIGhlaWdodD0iNzY4IiBmaWxsPSIjRkNGQ0ZBIi8+CjxyZWN0IHg9IjMyIiB5PSI2NCIgd2lkdGg9Ijk2MCIgaGVpZ2h0PSI0OCIgcng9IjgiIGZpbGw9IiMwRjc2NkUiLz4KPHRleHQgeD0iNTEyIiB5PSI5NiIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJJbnRlciIgZm9udC1zaXplPSIyMCIgZm9udC13ZWlnaHQ9IjYwMCI+N2V2ZW4gLSBFbnZpcm9ubWVudGFsIEVkdWNhdGlvbiBQbGF0Zm9ybTwvdGV4dD4KPC9zdmc+Cg==",
+      "sizes": "1024x768",
+      "type": "image/svg+xml",
+      "form_factor": "wide"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Dashboard",
+      "short_name": "Dashboard",
+      "description": "View your environmental learning progress",
+      "url": "/",
+      "icons": [
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIHZpZXdCb3g9IjAgMCA5NiA5NiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9Ijk2IiBoZWlnaHQ9Ijk2IiByeD0iMjQiIGZpbGw9IiMwRjc2NkUiLz4KPHBhdGggZD0iTTQ4IDI0SDcyVjM2SDQ4VjI0Wm0wIDQ4SDcyVjYwSDQ4VjcyWk0yNCAzNkg0OFYyNEgyNFYzNlptMCAyNEg0OFY0OEgyNFY2MFptMCAxMkg0OFY3MkgyNFY4NFptMjQtNDhWMjRIMjR2MTJINDR2MTJINTB2LTRIVDR2MTJIM1Y3MlY4NFpNMjQgNDhINDhWMzZIMjRWNDhaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K",
+          "sizes": "96x96",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "AR Scanner",
+      "short_name": "AR Scanner",
+      "description": "Scan plants and objects with AR technology",
+      "url": "/?ar=true",
+      "icons": [
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIHZpZXdCb3g9IjAgMCA5NiA5NiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9Ijk2IiBoZWlnaHQ9Ijk2IiByeD0iMjQiIGZpbGw9IiNBN0YzRDAiLz4KPHBhdGggZD0iTTQ4IDI0QzM1LjMgMjQgMjQgMzUuMyAyNCA0OEMyNCA2MC43IDM1LjMgNzIgNDggNzJDNjAuNyA3MiA3MiA2MC43IDcyIDQ4QzcyIDM1LjMgNjAuNyAyNCA0OCAyNFpNNDggNjBDNDEuNCA2MCAzNiA1NC42IDM2IDQ4QzM2IDQxLjQgNDEuNCAzNiA0OCAzNkM1NC42IDM2IDYwIDQxLjQgNjAgNDhDNjAgNTQuNiA1NC42IDYwIDQ4IDYwWiIgZmlsbD0iIzEzNzAzMSIvPgo8L3N2Zz4K",
+          "sizes": "96x96",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Simulation",
+      "short_name": "Simulation", 
+      "description": "Run environmental ecosystem simulations",
+      "url": "/simulation",
+      "icons": [
+        {
+          "src": "data:image/svg+xml;base64=PHN2ZyB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIHZpZXdCb3g9IjAgMCA5NiA5NiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9Ijk2IiBoZWlnaHQ9Ijk2IiByeD0iMjQiIGZpbGw9IiNGQkNCNUUiLz4KPHBhdGggZD0iTTQ4IDI0QzM1LjMgMjQgMjQgMzUuMyAyNCA0OEMyNCA2MC43IDM1LjMgNzIgNDggNzJDNjAuNyA3MiA3MiA2MC43IDcyIDQ4QzcyIDM1LjMgNjAuNyAyNCA0OCAyNFpNNjAgNDhINDhWMzZIMjRWNDBINDRWNDhIMzZWNjBINDBWNTJINDhWNjBINjBWNDhaIiBmaWxsPSIjOTIyMDBBIi8+Cjwvc3ZnPgo=",
+          "sizes": "96x96",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "scope": "/",
+  "id": "7even-app",
+  "protocol_handlers": [],
+  "edge_side_panel": {
+    "preferred_width": 480
+  }
+}
